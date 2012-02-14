@@ -9,4 +9,4 @@ dependencies[] = oembedfield
 dependencies[] = remote_stream_wrapper
 core = 7.x
 php = 5.2
-version = 7.x-1.x-dev
+version = 7.x-0.1
